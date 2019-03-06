@@ -3,19 +3,19 @@ var w = 500,
 
 var colorscale = d3.scale.category10();
 
-var LegendOptions = ['Sean Van Osselaer'];
+var LegendOptions = ['Justin Feng'];
 
 var d = [
 		  [
 			{axis: "Stakeholder Management", value: 0.05},
-			{axis: "Driving Morale", value: 0.2},
-			{axis: "Supporting Crew", value: 0.1},
-			{axis: "Organisation Thinking", value: 0.15},
-			{axis: "Systems Thinking", value: 0.2},
+			{axis: "Driving Morale", value: 0},
+			{axis: "Supporting Crew", value: 0.2},
+			{axis: "Organisation Thinking", value: 0.05},
+			{axis: "Systems Thinking", value: 0.05},
 			{axis: "Implementation Thinking", value: 0.1},
-			{axis: "Experimenting with Technology", value: 0.15},
+			{axis: "Experimenting with Technology", value: 0},
 			{axis: "Developing Supporting Software", value: 0.05},
-			{axis: "Developing Software", value: 0.0}
+			{axis: "Developing Software", value: 0.5}
 		  ]
 		];
 
