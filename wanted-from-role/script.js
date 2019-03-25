@@ -8,14 +8,14 @@ var LegendOptions = ['Justin Feng'];
 var d = [
 		  [
 			{axis: "Stakeholder Management", value: 0.05},
-			{axis: "Driving Morale", value: 0},
-			{axis: "Supporting Crew", value: 0.15},
-			{axis: "Organisation Thinking", value: 0},
+			{axis: "Coaching", value: 0.1},
+			{axis: "Supporting Crew", value: 0.1},
+			{axis: "Organisation Thinking", value: 0.05},
 			{axis: "Systems Thinking", value: 0.1},
 			{axis: "Implementation Thinking", value: 0.2},
 			{axis: "Experimenting with Technology", value: 0.1},
-			{axis: "Developing Supporting Software", value: 0.2},
-			{axis: "Developing Software", value: 0.2}
+			{axis: "Developing Supporting Software", value: 0.15},
+			{axis: "Developing Software", value: 0.15}
 		  ]
 		];
 
